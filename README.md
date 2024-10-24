@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @secretsayan
 - 👀 I’m interested in open source projects 
 - 🌱 I’m currently learning system design
-- 💞️ I’m looking to collaborate on Drupal
+- 💞️ I’m looking to collaborate on Drupal and AI.
 - 📫 Please reach me at secretsayan@gmail.com or +919804041856
 
 <!---
